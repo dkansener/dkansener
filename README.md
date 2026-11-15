@@ -1,85 +1,127 @@
 <div align="center">
-  <picture>
-    <source media="(max-width: 600px)" srcset="./assets/profile-banner-mobile.png">
-    <img src="./assets/profile-banner.png" width="100%" alt="Doğukan Şener: web engineering, cloud infrastructure, e-commerce, security and performance">
-  </picture>
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/profile-banner-mobile.svg">
+  <img src="./assets/profile-banner.svg" width="100%" alt="Doğukan Şener. Web Developer and Engineer: PHP development, cloud and infrastructure, e-commerce, security and performance. İzmir, Türkiye. 5+ years. B.Sc. Computer Science and Engineering, Akdeniz University. Website lifecycle: Plan, Develop, Integrate, Deploy, Maintain, Secure, Optimize.">
+</picture>
 </div>
 
-<div align="center">
+## Professional introduction
 
-## Hi, I'm Doğukan 👋
+I'm a multidisciplinary web engineer with **5+ years** of professional experience across agency environments, corporate web development, international e-commerce and production infrastructure. My work bridges application development, infrastructure and digital business requirements.
 
-**Web Engineer · Cloud & Infrastructure · E-Commerce · Security & Performance**
+That covers custom PHP development, responsive front-end engineering, CMS architecture, API integrations, e-commerce systems, hosting administration, AWS environments, technical security and search performance.
 
-I work across the entire web delivery lifecycle, from building interfaces and commerce experiences to deploying, maintaining and improving the systems behind them.
+I don't just build websites. I develop, deploy, maintain, troubleshoot, secure and improve production web systems.
 
-</div>
+**Based in** İzmir, Türkiye · **Education** B.Sc. Computer Science &amp; Engineering, Akdeniz University
 
----
-
-## About me
-
-I'm Doğukan Şener, a developer working across web technologies, e-commerce implementations and the infrastructure that supports them. My approach combines practical front-end engineering with deployment, system operations, technical quality and search visibility.
-
-I focus on making websites and platforms **manageable, maintainable, performant and secure**, not just visually complete. That includes content management systems, custom themes, responsive experiences, hosting environments and technical optimization.
-
-I prefer solving the full problem: understanding the requirements, building the interface, considering the server environment, and making the result sustainable for the people who use and maintain it.
-
-## Areas of practice
+## Engineering & technical expertise
 
 <p>
 <picture>
-  <source media="(max-width: 600px)" srcset="./assets/focus-areas-mobile.png">
-  <img src="./assets/focus-areas.png" width="100%" alt="Focus areas. Web Engineering: responsive interfaces, custom themes and CMS, integrations. Cloud and Servers: AWS and cloud environments, Linux servers, deployment workflows. Security and Quality: secure configuration, access and update practices, backups and monitoring. Commerce and SEO: Shopify and WooCommerce, technical SEO, Core Web Vitals.">
+  <source media="(max-width: 600px)" srcset="./assets/expertise-mobile.svg">
+  <img src="./assets/expertise.svg" width="100%" alt="Expertise. Software and PHP: Custom PHP development, API and CRM integrations, MySQL-backed features. Front-end engineering: Figma-to-code, responsive UI, Reusable components, Cross-device and accessible. CMS architecture: Custom WordPress themes, Gutenberg, ACF, Codestar, Multilingual with WPML. E-commerce: Shopify and WooCommerce, Product configuration flows, Localized storefronts. Cloud and infrastructure: AWS environments, Linux, WHM/cPanel, Plesk, DNS, SSL/TLS, migrations. Security and performance: Hardening and email auth, Incident troubleshooting, Core Web Vitals and SEO.">
 </picture>
 </p>
 
-| Discipline | Scope |
+## Technology stack
+
+<p>
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/tech-stack-mobile.svg">
+  <img src="./assets/tech-stack.svg" width="100%" alt="Technology stack. Languages and development: PHP, MySQL, JavaScript, HTML5, CSS3, jQuery, LESS, SCSS, REST APIs, Git. Front-end engineering: Responsive UI, Tailwind CSS, Bootstrap, Figma to code, Reusable components, Cross-device, Accessibility. WordPress and CMS: Custom themes, WooCommerce, ACF, Gutenberg, Codestar Framework, WPML, Custom PHP forms, Multilingual architecture, Elementor, WPBakery. E-commerce: Shopify Liquid, Custom Shopify themes, WooCommerce, Product configuration, Checkout integrations, Third-party apps, Localized storefronts, Conversion UX. Cloud and servers: AWS hosting, Amazon SES, Linux, WHM/cPanel, Plesk, Apache, LiteSpeed, DNS, SSL/TLS, Cloudflare, Server migration. Security and operations: Server hardening, Access control, SPF, DKIM, DMARC, Traffic investigation, Site recovery, Backups, Incident response. Performance and technical SEO: Core Web Vitals, Lighthouse, PageSpeed Insights, LCP · CLS · INP, Technical SEO, Structured data, Caching, Asset optimization, Crawlability, Indexability, Analytics. Exploring: Python, AI-assisted development, Automation, Software tooling.">
+</picture>
+</p>
+
+Solid cards reflect established professional work. The dashed **Exploring** card lists interests I'm actively learning outside core client work.
+
+## Professional experience
+
+<p>
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/experience-mobile.svg">
+  <img src="./assets/experience.svg" width="100%" alt="Professional experience timeline. Crabs Media, Web Developer · Full-Stack Development and Systems Administration, Jan 2024 – Present. Current Works Media Teknoloji A.Ş., Front-End / WordPress Developer, Jun 2023 – Jan 2024. PenDigital, Front-End / WordPress Developer · internship to professional, Jun 2021 – Jun 2023. Independent Development, Freelance Web Development and Technical SEO, 2021 – Present.">
+</picture>
+</p>
+
+### Crabs Media
+`Jan 2024 – Present` · Web Developer / Full-Stack Development & Systems Administration
+
+- Develop and maintain custom WordPress and PHP solutions for healthcare and corporate clients, within an agency serving 300+ clinics.
+- Contributed directly to clinic websites and 20+ corporate web projects.
+- Build multilingual websites, medical service templates, custom forms and CRM/lead integrations.
+- Handle hosting, AWS operations, server administration, DNS, SSL, mail systems, migrations, deployment and security troubleshooting.
+- Improve technical SEO, front-end performance and maintainability.
+
+### Current Works Media Teknoloji A.Ş.
+`Jun 2023 – Jan 2024` · Front-End / WordPress Developer
+
+- Developed custom WordPress websites and e-commerce implementations.
+- Converted Figma designs into responsive front-end interfaces.
+- Worked on multilingual corporate websites and Shopify/WooCommerce projects.
+- Managed assigned projects independently, including client communication and implementation decisions.
+
+### PenDigital
+`Jun 2021 – Jun 2023` · Front-End / WordPress Developer
+
+- Progressed from internship to professional front-end development.
+- Developed responsive websites using HTML, CSS/LESS, JavaScript, jQuery and PHP.
+- Implemented custom WordPress themes and reusable front-end structures.
+
+### Independent development
+`2021 – Present` · Freelance Web Development & Technical SEO
+
+- Delivered independent client projects, website maintenance, performance optimization and technical SEO services.
+
+## Selected commercial work
+
+<p>
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/commercial-work-mobile.svg">
+  <img src="./assets/commercial-work.svg" width="100%" alt="Selected commercial work. Profit DTF, Founder · E-commerce and technical operations: Shopify storefront development, custom DTF product configuration, gang sheet buying flows, artwork uploads, merchandising, technical SEO and operational management. Flormar / Flormar Blog, WordPress · PHP · REST API: WordPress, PHP, REST API integrations, Tailwind CSS, LESS and custom front-end implementation. Kurtsan, Corporate website: Custom WordPress/PHP corporate website with jQuery, LESS and bespoke Gutenberg components. Healthcare platforms, Doku Clinic · Smile Hair Clinic · YourMedCare: Multilingual healthcare websites, landing pages, custom enquiry forms, CRM connectivity and appointment-related workflows.">
+</picture>
+</p>
+
+**Other selected work:** DTF Ghost · Kolay Tişört · Orfis · Orfis Home · Orçelik · Carpex Scenting · DoubleCheckReal · Atlantis Handmade · Gürsüt · Turkish Cymbals · Ketuna · Ege Mikrobiyal · Toda Gloria
+
+## Infrastructure & security experience
+
+| Area | What I handle |
 |:--|:--|
-| **Web development** | Responsive interfaces, custom themes, CMS architecture, integrations |
-| **Cloud & infrastructure** | AWS / cloud environments, Linux servers, hosting, DNS, SSL/TLS, deployments |
-| **Server operations** | Web server configuration, monitoring, backups, maintenance, troubleshooting |
-| **Web security** | Secure configuration, access controls, updates, exposure reduction, hardening |
-| **E-commerce** | Shopify, WooCommerce, storefront UX, theme customization |
-| **Technical SEO & performance** | Crawlability, indexability, structured data, Core Web Vitals, diagnostics |
-| **Engineering workflow** | Git-based development, reusable components, AI-assisted workflows |
+| **Hosting & servers** | AWS environments, Linux hosting, WHM/cPanel, Plesk, Apache, LiteSpeed |
+| **Domains & delivery** | DNS administration, SSL/TLS, Cloudflare |
+| **Email** | Mail systems, Amazon SES, SPF, DKIM, DMARC |
+| **Migrations & releases** | Server migrations, deployments, production troubleshooting |
+| **Security** | Server hardening, access controls, suspicious traffic investigation, compromised website recovery |
+| **Continuity** | Backup strategies and incident troubleshooting |
 
-> Listed areas of work do not imply certifications, years of experience or proficiency levels. Verified credentials and public case studies can be added separately.
+## Education & certification
 
-## Technical landscape
+| Institution | Credential |
+|:--|:--|
+| **Akdeniz University** | B.Sc. Computer Science & Engineering |
+| **IBM SkillsBuild + Kodluyoruz** | CyberStart Completion Certificate · June 2024 |
 
-<p>
-<picture>
-  <source media="(max-width: 600px)" srcset="./assets/tech-landscape-mobile.png">
-  <img src="./assets/tech-landscape.png" width="100%" alt="Technical landscape. Languages and front-end: HTML5, CSS3, JavaScript, PHP, LESS / SCSS, jQuery. CMS and e-commerce: WordPress, WooCommerce, Shopify Liquid. Infrastructure and operations: AWS / Cloud, Linux, Git, DNS, SSL/TLS, web servers. Quality and visibility: technical SEO, Core Web Vitals, accessibility, structured data.">
-</picture>
-</p>
+## Academic projects & GitHub repositories
 
-## How I approach projects
+**HopeNest** · [dkansener/hope-nest](https://github.com/dkansener/hope-nest)<br>
+Flutter/Firebase university capstone. UI/UX wireframes, Figma design, coordination and documentation.
 
-```text
-01 DISCOVER   Needs and constraints
-02 ARCHITECT  Maintainable structure
-03 BUILD      Develop, integrate, test
-04 SECURE     Access, config, risk
-05 OPTIMIZE   Speed, UX, visibility
-06 MAINTAIN   Document, monitor, evolve
-```
+**Apartment Management System** · not public<br>
+PHP/MySQL academic full-stack project with database design and CRUD workflows.
 
-## What matters to me
+Much of my professional work lives in private client and agency repositories, so public repositories show only part of it.
 
-- **Engineering beyond the interface:** hosting, infrastructure and long-term upkeep are part of the job.
-- **Performance as a requirement:** responsiveness, efficient delivery and technical SEO from the start.
-- **Security-conscious delivery:** reliable systems need good operational practices.
-- **Editor-friendly systems:** routine content and commerce changes shouldn't need a developer.
-- **Practical automation:** tools and AI assistance used responsibly, with everything reviewed before it ships.
+## Engineering philosophy
 
-## GitHub & collaboration
+- **Own the whole lifecycle:** planning, development, integration, deployment, maintenance, security and optimization are one job.
+- **Production first:** what matters is how a system behaves live, under real traffic, real content and real failures.
+- **Security as routine:** hardening, access control, email authentication and backups belong in everyday operations.
+- **Performance is a requirement:** Core Web Vitals and technical SEO are built in, not added at the end.
+- **Editor-friendly systems:** clients should manage routine content and commerce changes without a developer.
 
-My GitHub is a place for code, technical experiments and professional work. Many client projects and infrastructure work are private, so public repositories don't represent the full scope of my experience.
+## Contact & professional links
 
-For conversations around web engineering, cloud infrastructure, commerce systems or technical optimization, connect through [GitHub](https://github.com/dkansener).
+[![GitHub](https://img.shields.io/badge/GitHub-dkansener-0A1424?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dkansener)
 
----
-
-<p align="center">Doğukan Şener · Web engineering, infrastructure, e-commerce and performance</p>
+İzmir, Türkiye
