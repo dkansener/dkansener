@@ -1,3 +1,5 @@
+<p align="right"><b>EN</b> · <a href="./README.tr.md">TR</a></p>
+
 <picture>
   <source media="(max-width: 600px)" srcset="./assets/hero-mobile.svg">
   <img src="./assets/hero.svg" width="100%" alt="Doğukan Şener. Full-Stack Development and Systems Administration. PHP, JavaScript, Cloud Infrastructure, E-Commerce, Security, Performance. Build, deploy, secure, optimize.">
@@ -12,7 +14,7 @@ Currently at <b>Crabs Media</b> · Freelance web development &amp; technical con
 
 ## <img src="./assets/icons/user.svg" width="26" height="26" alt=""> About me
 
-I'm a Computer Engineering graduate with **5+ years** of professional experience, working across full-stack development and systems administration.
+I'm a Computer Engineering graduate with **7+ years** of professional experience, working across full-stack development and systems administration.
 
 My work covers custom web development, PHP and MySQL applications, JavaScript interfaces, content management architectures, e-commerce platforms, AWS and Linux hosting, production operations, security troubleshooting and technical performance. I work across the whole delivery lifecycle, from implementation and integration to deployment, maintenance and optimization.
 
