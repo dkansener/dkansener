@@ -5,7 +5,7 @@
 
 <p align="center">
 <b>Doğukan Şener</b> · Full-Stack Development &amp; Systems Administration<br>
-PHP · JavaScript · Cloud Infrastructure · E-Commerce · Security · Performance
+Currently at <b>Crabs Media</b> · Freelance web development &amp; technical consulting · İzmir, Türkiye
 </p>
 
 <p><img src="./assets/divider.svg" width="100%" alt=""></p>
