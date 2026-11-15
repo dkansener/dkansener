@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/dkanhub-banner.svg" alt="Doğukan Şener — Front-end developer for WordPress and Shopify" width="100%">
+  <img src="assets/dkanhub-banner.svg" alt="Doğukan Şener, front-end developer for WordPress and Shopify. DKAN Hub." width="100%">
 </p>
 
 I build custom WordPress and Shopify themes that clients can manage from the panel, with responsive layouts tested at every breakpoint from 1441 down to 320px.
@@ -17,7 +17,3 @@ I build custom WordPress and Shopify themes that clients can manage from the pan
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dkansener/dkansener/output/github-snake-dark.svg">
   <img alt="Contribution graph animation" src="https://raw.githubusercontent.com/dkansener/dkansener/output/github-snake.svg">
 </picture>
-
-<p align="right">
-  <img src="assets/dkanhub-logo.svg" alt="DkanHub" width="40">
-</p>
