@@ -48,36 +48,12 @@ I prefer solving the full problem: understanding the requirements, building the 
 
 ## Technical landscape
 
-**Languages & front-end**
-
-![HTML5](/HTML5-111827?style=flat-square&logo=html5&logoColor=white)
-![CSS3](/CSS3-111827?style=flat-square&logo=css&logoColor=white)
-![JavaScript](/JavaScript-111827?style=flat-square&logo=javascript&logoColor=white)
-![PHP](/PHP-111827?style=flat-square&logo=php&logoColor=white)
-![LESS / SCSS](/LESS%20%2F%20SCSS-111827?style=flat-square&logo=sass&logoColor=white)
-![jQuery](/jQuery-111827?style=flat-square&logo=jquery&logoColor=white)
-
-**CMS & e-commerce**
-
-![WordPress](/WordPress-111827?style=flat-square&logo=wordpress&logoColor=white)
-![WooCommerce](/WooCommerce-111827?style=flat-square&logo=woocommerce&logoColor=white)
-![Shopify Liquid](/Shopify%20Liquid-111827?style=flat-square&logo=shopify&logoColor=white)
-
-**Infrastructure & operations**
-
-![AWS](/AWS%20%2F%20Cloud-111827?style=flat-square)
-![Linux](/Linux-111827?style=flat-square&logo=linux&logoColor=white)
-![Git](/Git-111827?style=flat-square&logo=git&logoColor=white)
-![DNS](/DNS-111827?style=flat-square)
-![SSL/TLS](/SSL%2FTLS-111827?style=flat-square)
-![Web servers](/Web%20servers-111827?style=flat-square)
-
-**Quality & visibility**
-
-![Technical SEO](/Technical%20SEO-0B4EDB?style=flat-square)
-![Core Web Vitals](/Core%20Web%20Vitals-0B4EDB?style=flat-square)
-![Accessibility](/Accessibility-0B4EDB?style=flat-square)
-![Structured data](/Structured%20data-0B4EDB?style=flat-square)
+<p>
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/tech-landscape-mobile.png">
+  <img src="./assets/tech-landscape.png" width="100%" alt="Technical landscape. Languages and front-end: HTML5, CSS3, JavaScript, PHP, LESS / SCSS, jQuery. CMS and e-commerce: WordPress, WooCommerce, Shopify Liquid. Infrastructure and operations: AWS / Cloud, Linux, Git, DNS, SSL/TLS, web servers. Quality and visibility: technical SEO, Core Web Vitals, accessibility, structured data.">
+</picture>
+</p>
 
 ## How I approach projects
 
