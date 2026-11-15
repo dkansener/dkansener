@@ -1,16 +1,23 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/dkanhub-banner.svg" alt="Doğukan Şener — Front-end developer for WordPress and Shopify" width="100%">
+</p>
 
-<!--
-**dkansener/dkansener** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build custom WordPress and Shopify themes that clients can manage from the panel, with responsive layouts tested at every breakpoint from 1441 down to 320px.
 
-Here are some ideas to get you started:
+- **WordPress:** custom themes, Codestar-driven panels, multilingual sites with WPML, LESS
+- **Shopify:** Online Store 2.0 sections, schema settings, Liquid and theme customization
+- **Quality:** Core Web Vitals, technical SEO, accessible and maintainable front-end code
+- **Workflow:** AI-assisted development with shared coding standards across every project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img src="assets/tech-stack.svg" alt="PHP, JavaScript, WordPress, Shopify Liquid, LESS / SCSS, AI-assisted workflows">
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dkansener/dkansener/output/github-snake-dark.svg">
+  <img alt="Contribution graph animation" src="https://raw.githubusercontent.com/dkansener/dkansener/output/github-snake.svg">
+</picture>
+
+<p align="right">
+  <img src="assets/dkanhub-logo.svg" alt="DkanHub" width="40">
+</p>
