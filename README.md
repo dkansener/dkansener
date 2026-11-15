@@ -24,7 +24,7 @@ I currently work at **Crabs Media** and also take on **independent freelance pro
 <td width="50%" valign="top"><img src="./assets/icons/repeat.svg" width="24" height="24" alt=""><br><b>Concurrent</b><br>Freelance web development &amp; technical consulting</td>
 </tr>
 <tr>
-<td valign="top"><img src="./assets/icons/spark.svg" width="24" height="24" alt=""><br><b>Experience</b><br>5+ years, professional</td>
+<td valign="top"><img src="./assets/icons/spark.svg" width="24" height="24" alt=""><br><b>Experience</b><br>7+ years, professional</td>
 <td valign="top"><img src="./assets/icons/pin.svg" width="24" height="24" alt=""><br><b>Location</b><br>İzmir, Türkiye</td>
 </tr>
 </table>
