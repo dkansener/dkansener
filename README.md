@@ -1,127 +1,183 @@
-<div align="center">
-<picture>
-  <source media="(max-width: 600px)" srcset="./assets/profile-banner-mobile.svg">
-  <img src="./assets/profile-banner.svg" width="100%" alt="Doğukan Şener. Web Developer and Engineer: PHP development, cloud and infrastructure, e-commerce, security and performance. İzmir, Türkiye. 5+ years. B.Sc. Computer Science and Engineering, Akdeniz University. Website lifecycle: Plan, Develop, Integrate, Deploy, Maintain, Secure, Optimize.">
-</picture>
-</div>
+```console
+dogukan@github:~$ whoami
 
-## Professional introduction
+Doğukan Şener
+Web Developer &
+Web Infrastructure Engineer
 
-I'm a multidisciplinary web engineer with **5+ years** of professional experience across agency environments, corporate web development, international e-commerce and production infrastructure. My work bridges application development, infrastructure and digital business requirements.
+Current   Crabs Media
+Also      Freelance dev & consulting
+Focus     PHP · Web engineering
+          Cloud · Security
+          E-commerce
+Location  İzmir, Türkiye
 
-That covers custom PHP development, responsive front-end engineering, CMS architecture, API integrations, e-commerce systems, hosting administration, AWS environments, technical security and search performance.
+> Building, deploying, securing
+> and optimizing web systems.
+```
 
-I don't just build websites. I develop, deploy, maintain, troubleshoot, secure and improve production web systems.
+```text
+● current     Crabs Media
+              since Jan 2024
+● concurrent  Freelance development
+              & technical consulting
+● experience  5+ years
+```
 
-**Based in** İzmir, Türkiye · **Education** B.Sc. Computer Science &amp; Engineering, Akdeniz University
+---
 
-## Engineering & technical expertise
+## About me
 
-<p>
-<picture>
-  <source media="(max-width: 600px)" srcset="./assets/expertise-mobile.svg">
-  <img src="./assets/expertise.svg" width="100%" alt="Expertise. Software and PHP: Custom PHP development, API and CRM integrations, MySQL-backed features. Front-end engineering: Figma-to-code, responsive UI, Reusable components, Cross-device and accessible. CMS architecture: Custom WordPress themes, Gutenberg, ACF, Codestar, Multilingual with WPML. E-commerce: Shopify and WooCommerce, Product configuration flows, Localized storefronts. Cloud and infrastructure: AWS environments, Linux, WHM/cPanel, Plesk, DNS, SSL/TLS, migrations. Security and performance: Hardening and email auth, Incident troubleshooting, Core Web Vitals and SEO.">
-</picture>
-</p>
+I'm a web developer and web infrastructure engineer with **5+ years** of professional experience. I'm currently at **Crabs Media**, and alongside that role I take on **freelance web development and technical consulting** projects.
 
-## Technology stack
+My work spans the full life of a website: planning, development, integration, deployment, maintenance, security and optimization. That means PHP development, front-end engineering, CMS architecture, e-commerce, cloud infrastructure, Linux hosting, security, technical SEO and performance.
 
-<p>
-<picture>
-  <source media="(max-width: 600px)" srcset="./assets/tech-stack-mobile.svg">
-  <img src="./assets/tech-stack.svg" width="100%" alt="Technology stack. Languages and development: PHP, MySQL, JavaScript, HTML5, CSS3, jQuery, LESS, SCSS, REST APIs, Git. Front-end engineering: Responsive UI, Tailwind CSS, Bootstrap, Figma to code, Reusable components, Cross-device, Accessibility. WordPress and CMS: Custom themes, WooCommerce, ACF, Gutenberg, Codestar Framework, WPML, Custom PHP forms, Multilingual architecture, Elementor, WPBakery. E-commerce: Shopify Liquid, Custom Shopify themes, WooCommerce, Product configuration, Checkout integrations, Third-party apps, Localized storefronts, Conversion UX. Cloud and servers: AWS hosting, Amazon SES, Linux, WHM/cPanel, Plesk, Apache, LiteSpeed, DNS, SSL/TLS, Cloudflare, Server migration. Security and operations: Server hardening, Access control, SPF, DKIM, DMARC, Traffic investigation, Site recovery, Backups, Incident response. Performance and technical SEO: Core Web Vitals, Lighthouse, PageSpeed Insights, LCP · CLS · INP, Technical SEO, Structured data, Caching, Asset optimization, Crawlability, Indexability, Analytics. Exploring: Python, AI-assisted development, Automation, Software tooling.">
-</picture>
-</p>
+I don't stop at building the site. I deploy it, keep it running, troubleshoot it when something breaks, secure it and keep improving it in production.
 
-Solid cards reflect established professional work. The dashed **Exploring** card lists interests I'm actively learning outside core client work.
+---
 
-## Professional experience
+## What I work with
 
-<p>
-<picture>
-  <source media="(max-width: 600px)" srcset="./assets/experience-mobile.svg">
-  <img src="./assets/experience.svg" width="100%" alt="Professional experience timeline. Crabs Media, Web Developer · Full-Stack Development and Systems Administration, Jan 2024 – Present. Current Works Media Teknoloji A.Ş., Front-End / WordPress Developer, Jun 2023 – Jan 2024. PenDigital, Front-End / WordPress Developer · internship to professional, Jun 2021 – Jun 2023. Independent Development, Freelance Web Development and Technical SEO, 2021 – Present.">
-</picture>
-</p>
-
-### Crabs Media
-`Jan 2024 – Present` · Web Developer / Full-Stack Development & Systems Administration
-
-- Develop and maintain custom WordPress and PHP solutions for healthcare and corporate clients, within an agency serving 300+ clinics.
-- Contributed directly to clinic websites and 20+ corporate web projects.
-- Build multilingual websites, medical service templates, custom forms and CRM/lead integrations.
-- Handle hosting, AWS operations, server administration, DNS, SSL, mail systems, migrations, deployment and security troubleshooting.
-- Improve technical SEO, front-end performance and maintainability.
-
-### Current Works Media Teknoloji A.Ş.
-`Jun 2023 – Jan 2024` · Front-End / WordPress Developer
-
-- Developed custom WordPress websites and e-commerce implementations.
-- Converted Figma designs into responsive front-end interfaces.
-- Worked on multilingual corporate websites and Shopify/WooCommerce projects.
-- Managed assigned projects independently, including client communication and implementation decisions.
-
-### PenDigital
-`Jun 2021 – Jun 2023` · Front-End / WordPress Developer
-
-- Progressed from internship to professional front-end development.
-- Developed responsive websites using HTML, CSS/LESS, JavaScript, jQuery and PHP.
-- Implemented custom WordPress themes and reusable front-end structures.
-
-### Independent development
-`2021 – Present` · Freelance Web Development & Technical SEO
-
-- Delivered independent client projects, website maintenance, performance optimization and technical SEO services.
-
-## Selected commercial work
-
-<p>
-<picture>
-  <source media="(max-width: 600px)" srcset="./assets/commercial-work-mobile.svg">
-  <img src="./assets/commercial-work.svg" width="100%" alt="Selected commercial work. Profit DTF, Founder · E-commerce and technical operations: Shopify storefront development, custom DTF product configuration, gang sheet buying flows, artwork uploads, merchandising, technical SEO and operational management. Flormar / Flormar Blog, WordPress · PHP · REST API: WordPress, PHP, REST API integrations, Tailwind CSS, LESS and custom front-end implementation. Kurtsan, Corporate website: Custom WordPress/PHP corporate website with jQuery, LESS and bespoke Gutenberg components. Healthcare platforms, Doku Clinic · Smile Hair Clinic · YourMedCare: Multilingual healthcare websites, landing pages, custom enquiry forms, CRM connectivity and appointment-related workflows.">
-</picture>
-</p>
-
-**Other selected work:** DTF Ghost · Kolay Tişört · Orfis · Orfis Home · Orçelik · Carpex Scenting · DoubleCheckReal · Atlantis Handmade · Gürsüt · Turkish Cymbals · Ketuna · Ege Mikrobiyal · Toda Gloria
-
-## Infrastructure & security experience
-
-| Area | What I handle |
+| Domain | Tools and platforms |
 |:--|:--|
-| **Hosting & servers** | AWS environments, Linux hosting, WHM/cPanel, Plesk, Apache, LiteSpeed |
-| **Domains & delivery** | DNS administration, SSL/TLS, Cloudflare |
-| **Email** | Mail systems, Amazon SES, SPF, DKIM, DMARC |
-| **Migrations & releases** | Server migrations, deployments, production troubleshooting |
-| **Security** | Server hardening, access controls, suspicious traffic investigation, compromised website recovery |
-| **Continuity** | Backup strategies and incident troubleshooting |
+| **Languages** | `PHP` `MySQL` `JavaScript` `HTML` `CSS` |
+| **Front-end** | `jQuery` `LESS` `SCSS` `Tailwind CSS` `Bootstrap` |
+| **CMS** | `WordPress` `Gutenberg` `ACF` `WPML` `Codestar Framework` |
+| **E-commerce** | `WooCommerce` `Shopify Liquid` |
+| **Cloud & hosting** | `AWS` `Amazon SES` `Linux` `WHM/cPanel` `Plesk` |
+| **Web servers & edge** | `Apache` `LiteSpeed` `Cloudflare` `DNS` `SSL/TLS` |
+| **Email security** | `SPF` `DKIM` `DMARC` |
+| **Performance & SEO** | `Lighthouse` `PageSpeed Insights` `Core Web Vitals` |
+| **Workflow** | `Git` `REST APIs` `AI-assisted development` |
 
-## Education & certification
+---
 
-| Institution | Credential |
+## Engineering capabilities
+
+<details open>
+<summary><b>Web & backend engineering</b> · PHP, MySQL, JavaScript, REST APIs</summary>
+<br>
+
+Custom PHP solutions where an off-the-shelf plugin or theme isn't the right fit.
+
+- Dynamic, data-driven features backed by MySQL
+- Custom forms with validation and server-side handling
+- REST API and third-party integrations, including CRM and lead flows
+- Reusable architecture so the next feature starts from tested parts
+
+</details>
+
+<details>
+<summary><b>Front-end development</b> · HTML, CSS, JavaScript, jQuery, LESS, SCSS, Tailwind, Bootstrap</summary>
+<br>
+
+Turning Figma designs into responsive interfaces that hold up on every device.
+
+- Responsive layouts checked across breakpoints, down to small phones
+- Maintainable stylesheets in LESS, SCSS or Tailwind CSS, following the project's conventions
+- Interactive components (sliders, tabs, forms, menus) without unnecessary dependencies
+
+</details>
+
+<details>
+<summary><b>CMS & e-commerce</b> · WordPress, WooCommerce, Shopify Liquid</summary>
+<br>
+
+Sites that editors and store owners can run without a developer for routine changes.
+
+- Custom WordPress themes with admin panels built on Gutenberg, ACF or Codestar Framework
+- Multilingual architecture with WPML
+- WooCommerce and Shopify storefronts, custom themes and configurable product flows
+- Integrations between the CMS, the store and external services
+
+</details>
+
+---
+
+## Infrastructure & security
+
+I look after the layers underneath the site, not only the code.
+
+```text
+request
+  │
+  ├─ edge    Cloudflare · DNS · SSL/TLS
+  ├─ server  Apache · LiteSpeed
+  │          Linux · WHM/cPanel · Plesk
+  ├─ cloud   AWS hosting
+  ├─ app     PHP · WordPress · Shopify
+  ├─ data    MySQL
+  └─ mail    Amazon SES
+             SPF · DKIM · DMARC
+```
+
+| Area | What I do |
 |:--|:--|
-| **Akdeniz University** | B.Sc. Computer Science & Engineering |
-| **IBM SkillsBuild + Kodluyoruz** | CyberStart Completion Certificate · June 2024 |
+| **Hosting** | Set up and administer AWS and Linux hosting through WHM/cPanel and Plesk |
+| **Delivery** | Manage DNS, SSL/TLS and Cloudflare; run deployments and server migrations |
+| **Email** | Configure mail systems and Amazon SES with SPF, DKIM and DMARC authentication |
+| **Hardening** | Apply server hardening and access controls |
+| **Incidents** | Investigate suspicious traffic, remediate compromised websites, troubleshoot production issues |
+| **Continuity** | Maintain backups and routine production maintenance |
 
-## Academic projects & GitHub repositories
+---
 
-**HopeNest** · [dkansener/hope-nest](https://github.com/dkansener/hope-nest)<br>
-Flutter/Firebase university capstone. UI/UX wireframes, Figma design, coordination and documentation.
+## Performance & technical SEO
 
-**Apartment Management System** · not public<br>
-PHP/MySQL academic full-stack project with database design and CRUD workflows.
+Speed and search visibility are part of the build, not a later clean-up.
 
-Much of my professional work lives in private client and agency repositories, so public repositories show only part of it.
+| Focus | What I look at |
+|:--|:--|
+| **Core Web Vitals** | `LCP` `CLS` `INP`, measured with Lighthouse and PageSpeed Insights |
+| **Front-end delivery** | Asset optimization, image handling, caching |
+| **Crawlability** | Site structure, indexability, metadata |
+| **Structured data** | Schema markup that matches the page content |
 
-## Engineering philosophy
+---
 
-- **Own the whole lifecycle:** planning, development, integration, deployment, maintenance, security and optimization are one job.
-- **Production first:** what matters is how a system behaves live, under real traffic, real content and real failures.
-- **Security as routine:** hardening, access control, email authentication and backups belong in everyday operations.
-- **Performance is a requirement:** Core Web Vitals and technical SEO are built in, not added at the end.
-- **Editor-friendly systems:** clients should manage routine content and commerce changes without a developer.
+## Development workflow
 
-## Contact & professional links
+```text
+plan → develop → integrate → deploy
+     → maintain → secure → optimize
+```
 
-[![GitHub](https://img.shields.io/badge/GitHub-dkansener-0A1424?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dkansener)
+- **Git** for every project, with readable history
+- **Documentation and development standards** so the next change is predictable
+- **API integrations** designed to fail gracefully
+- **Automation** for repetitive operational tasks
+- **AI-assisted development**, with every change reviewed before it ships
 
-İzmir, Türkiye
+---
+
+## Professional background
+
+| Period | Role | Status |
+|:--|:--|:--|
+| 2024 – present | **Crabs Media** · Web Developer, Full-Stack Development & Systems Administration | `current` |
+| 2021 – present | **Freelance** · Web development and technical SEO, project-based | `concurrent` |
+| 2023 – 2024 | **Current Works Media Teknoloji A.Ş.** | `previous` |
+| 2021 – 2023 | **PenDigital** | `previous` |
+
+**Education** · Akdeniz University, B.Sc. Computer Science & Engineering<br>
+**Certification** · IBM SkillsBuild + Kodluyoruz, CyberStart Completion Certificate (2024)
+
+---
+
+## Currently exploring
+
+- `Python` for scripting and tooling
+- Automation of routine development and operations work
+- AI-assisted development workflows
+- Software tooling and technical experiments
+
+---
+
+## Connect
+
+- GitHub: [github.com/dkansener](https://github.com/dkansener)
+- Based in İzmir, Türkiye
+
+```console
+dogukan@github:~$ exit
+```
