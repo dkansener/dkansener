@@ -1,20 +1,17 @@
 <div align="center">
   <picture>
-    <source media="(max-width: 600px)" srcset="./assets/dkanhub-banner-mobile.svg">
-    <img src="./assets/dkanhub-banner.svg" width="100%" alt="Doğukan Şener, web developer and e-commerce engineer working on technical SEO, search visibility and digital products. DKAN Hub.">
+    <source media="(max-width: 600px)" srcset="./assets/profile-banner-mobile.png">
+    <img src="./assets/profile-banner.png" width="100%" alt="Doğukan Şener: web engineering, cloud infrastructure, e-commerce, security and performance">
   </picture>
 </div>
 
 <div align="center">
 
-## Hi, I'm Doğukan Şener 👋
+## Hi, I'm Doğukan 👋
 
-**Web Developer · E-Commerce Engineer · Technical SEO & Digital Product Builder**
+**Web Engineer · Cloud & Infrastructure · E-Commerce · Security & Performance**
 
-*I build digital experiences where design, engineering, search visibility and business goals meet.*
-
-[![Website](https://img.shields.io/badge/Website-DKANHub.com-0B4EDB?style=for-the-badge)](https://dkanhub.com)
-[![GitHub](https://img.shields.io/badge/GitHub-dkansener-111827?style=for-the-badge&logo=github)](https://github.com/dkansener)
+I work across the entire web delivery lifecycle, from building interfaces and commerce experiences to deploying, maintaining and improving the systems behind them.
 
 </div>
 
@@ -22,122 +19,91 @@
 
 ## About me
 
-I'm a web developer and digital product builder focused on turning complex requirements into practical, maintainable digital experiences. My work spans **custom website development**, **e-commerce implementations**, **performance and technical SEO**, and the architecture of new products and workflows.
+I'm Doğukan Şener, a developer working across web technologies, e-commerce implementations and the infrastructure that supports them. My approach combines practical front-end engineering with deployment, system operations, technical quality and search visibility.
 
-I care about what happens *after* a website goes live: can the team manage it, can search engines understand it, is it accessible and fast, and can the system grow without becoming difficult to maintain?
+I focus on making websites and platforms **manageable, maintainable, performant and secure**, not just visually complete. That includes content management systems, custom themes, responsive experiences, hosting environments and technical optimization.
 
-Rather than limiting my work to a single CMS or framework, I approach each project from its technical and business requirements.
+I prefer solving the full problem: understanding the requirements, building the interface, considering the server environment, and making the result sustainable for the people who use and maintain it.
 
-## What I work on
+## Areas of practice
 
-| Area | Focus |
+<p>
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/focus-areas-mobile.png">
+  <img src="./assets/focus-areas.png" width="100%" alt="Focus areas. Web Engineering: responsive interfaces, custom themes and CMS, integrations. Cloud and Servers: AWS and cloud environments, Linux servers, deployment workflows. Security and Quality: secure configuration, access and update practices, backups and monitoring. Commerce and SEO: Shopify and WooCommerce, technical SEO, Core Web Vitals.">
+</picture>
+</p>
+
+| Discipline | Scope |
 |:--|:--|
-| **Web engineering** | Custom interfaces, responsive front-end, component systems, integrations |
-| **WordPress** | Custom themes, editable admin panels, multilingual builds |
-| **Shopify & e-commerce** | Liquid themes, store interfaces, product discovery, commerce UX |
-| **Technical SEO** | Crawlability, site structure, structured data, indexing, audits |
-| **GEO / AI search** | How brands and sources appear in AI-powered answers and citations |
-| **Digital products** | SaaS concepts, product specs, dashboards, internal tools |
-| **Performance & quality** | Core Web Vitals, accessibility, mobile behavior, deployment readiness |
-| **AI-assisted workflows** | Research, automation and developer productivity, used responsibly |
+| **Web development** | Responsive interfaces, custom themes, CMS architecture, integrations |
+| **Cloud & infrastructure** | AWS / cloud environments, Linux servers, hosting, DNS, SSL/TLS, deployments |
+| **Server operations** | Web server configuration, monitoring, backups, maintenance, troubleshooting |
+| **Web security** | Secure configuration, access controls, updates, exposure reduction, hardening |
+| **E-commerce** | Shopify, WooCommerce, storefront UX, theme customization |
+| **Technical SEO & performance** | Crawlability, indexability, structured data, Core Web Vitals, diagnostics |
+| **Engineering workflow** | Git-based development, reusable components, AI-assisted workflows |
 
-## Technical toolkit
+> Listed areas of work do not imply certifications, years of experience or proficiency levels. Verified credentials and public case studies can be added separately.
 
-**Hands-on, used in production work**
+## Technical landscape
 
-![PHP](https://img.shields.io/badge/PHP-111827?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript)
-![WordPress](https://img.shields.io/badge/WordPress-111827?style=flat-square&logo=wordpress)
-![Shopify Liquid](https://img.shields.io/badge/Shopify%20Liquid-111827?style=flat-square&logo=shopify)
-![LESS / SCSS](https://img.shields.io/badge/LESS%20%2F%20SCSS-111827?style=flat-square&logo=sass)
-![HTML5](https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css3)
+**Languages & front-end**
 
-**Areas I'm actively developing and exploring**
+![HTML5](/HTML5-111827?style=flat-square&logo=html5&logoColor=white)
+![CSS3](/CSS3-111827?style=flat-square&logo=css&logoColor=white)
+![JavaScript](/JavaScript-111827?style=flat-square&logo=javascript&logoColor=white)
+![PHP](/PHP-111827?style=flat-square&logo=php&logoColor=white)
+![LESS / SCSS](/LESS%20%2F%20SCSS-111827?style=flat-square&logo=sass&logoColor=white)
+![jQuery](/jQuery-111827?style=flat-square&logo=jquery&logoColor=white)
 
-`SaaS architecture` · `SEO / GEO monitoring` · `Crawling and diagnostics` · `E-commerce intelligence` · `Analytics dashboards` · `Automation` · `AI-assisted workflows`
+**CMS & e-commerce**
 
-## Selected initiatives
+![WordPress](/WordPress-111827?style=flat-square&logo=wordpress&logoColor=white)
+![WooCommerce](/WooCommerce-111827?style=flat-square&logo=woocommerce&logoColor=white)
+![Shopify Liquid](/Shopify%20Liquid-111827?style=flat-square&logo=shopify&logoColor=white)
 
-<table>
-<tr><td width="50%" valign="top">
+**Infrastructure & operations**
 
-### 🔎 DKAN Visibility
+![AWS](/AWS%20%2F%20Cloud-111827?style=flat-square)
+![Linux](/Linux-111827?style=flat-square&logo=linux&logoColor=white)
+![Git](/Git-111827?style=flat-square&logo=git&logoColor=white)
+![DNS](/DNS-111827?style=flat-square)
+![SSL/TLS](/SSL%2FTLS-111827?style=flat-square)
+![Web servers](/Web%20servers-111827?style=flat-square)
 
-**Technical SEO, GEO and visibility intelligence**
+**Quality & visibility**
 
-A product initiative focused on website diagnostics, SEO issue detection, backlink insights, AI-search visibility and competitor analysis.
+![Technical SEO](/Technical%20SEO-0B4EDB?style=flat-square)
+![Core Web Vitals](/Core%20Web%20Vitals-0B4EDB?style=flat-square)
+![Accessibility](/Accessibility-0B4EDB?style=flat-square)
+![Structured data](/Structured%20data-0B4EDB?style=flat-square)
 
-`Product development · concept evolving`
-
-</td><td width="50%" valign="top">
-
-### 🛍️ DK Commerce
-
-**Commerce content and discovery**
-
-An initiative around commerce-oriented content, brand discovery, promotional offers and comparison experiences.
-
-`Product development · concept evolving`
-
-</td></tr>
-<tr><td width="50%" valign="top">
-
-### 🧩 Custom Web Projects
-
-**WordPress and Shopify implementation**
-
-Custom themes, admin-editable sections, localized experiences and responsive sites built to be practical for the people managing them.
-
-`Client work · case studies coming soon`
-
-</td><td width="50%" valign="top">
-
-### 🌐 DKAN Hub
-
-**My independent portfolio and product space**
-
-A home for selected work, technical writing, experiments and digital products.
-
-`Portfolio under development`
-
-</td></tr>
-</table>
-
-## My approach
+## How I approach projects
 
 ```text
-Understand the problem
-        ↓
-Define a practical architecture
-        ↓
-Build with maintainability in mind
-        ↓
-Test performance, usability and search readiness
-        ↓
-Measure, learn and improve
+01 DISCOVER   Needs and constraints
+02 ARCHITECT  Maintainable structure
+03 BUILD      Develop, integrate, test
+04 SECURE     Access, config, risk
+05 OPTIMIZE   Speed, UX, visibility
+06 MAINTAIN   Document, monitor, evolve
 ```
 
-- **Product-aware engineering:** the goal isn't just a completed interface; it's a useful system.
-- **Performance by default:** speed, mobile behavior and accessibility are part of the build.
-- **Editable where it matters:** content teams should not need developers for every routine update.
-- **Visibility beyond launch:** technical SEO and discoverability are built into planning.
-- **Sustainable workflows:** shared coding standards and thoughtful AI assistance support consistency.
+## What matters to me
 
-## Currently exploring
+- **Engineering beyond the interface:** hosting, infrastructure and long-term upkeep are part of the job.
+- **Performance as a requirement:** responsiveness, efficient delivery and technical SEO from the start.
+- **Security-conscious delivery:** reliable systems need good operational practices.
+- **Editor-friendly systems:** routine content and commerce changes shouldn't need a developer.
+- **Practical automation:** tools and AI assistance used responsibly, with everything reviewed before it ships.
 
-- Measuring visibility in AI-powered search and mapping sources and citations.
-- Building repeatable technical SEO diagnostics and competitor-analysis workflows.
-- Designing modular dashboards for SaaS and e-commerce tools.
-- Developing a stronger public collection of engineering case studies and technical notes.
+## GitHub & collaboration
 
-## Let's connect
+My GitHub is a place for code, technical experiments and professional work. Many client projects and infrastructure work are private, so public repositories don't represent the full scope of my experience.
 
-I'm interested in **web engineering, e-commerce, search visibility and thoughtful digital products**. Explore my work at **[DKANHub.com](https://dkanhub.com)** or browse the repositories below.
+For conversations around web engineering, cloud infrastructure, commerce systems or technical optimization, connect through [GitHub](https://github.com/dkansener).
 
 ---
 
-<div align="center">
-  <sub>Designed around clarity, performance and practical digital engineering.</sub><br />
-  <sub>© Doğukan Şener · DKAN Hub</sub>
-</div>
+<p align="center">Doğukan Şener · Web engineering, infrastructure, e-commerce and performance</p>
