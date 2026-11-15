@@ -1,28 +1,14 @@
-```yaml
-# dogukan@github:~$ whoami
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/hero-mobile.svg">
+  <img src="./assets/hero.svg" width="100%" alt="Doğukan Şener, Full-Stack Development and Systems Administration. Terminal window showing current role at Crabs Media, concurrent freelance work and location İzmir, Türkiye.">
+</picture>
 
-name: Doğukan Şener
-title:
-  - Web Developer
-  - Web Infrastructure Engineer
-current: Crabs Media     # since 2024
-also: Freelance & consulting
-focus:
-  - PHP & web engineering
-  - Cloud & infrastructure
-  - Security & operations
-  - E-commerce
-location: İzmir, Türkiye
-```
+<p align="center">
+<b>Doğukan Şener</b> · Full-Stack Development &amp; Systems Administration<br>
+Currently at <b>Crabs Media</b> · Freelance development &amp; technical consulting · İzmir, Türkiye
+</p>
 
-```diff
-+ current     Crabs Media
-+ concurrent  Freelance development
-+             & technical consulting
-# experience  5+ years, professional
-```
-
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/PHP-0A1424?style=flat-square&logo=php&logoColor=white" alt="PHP">
 <img src="https://img.shields.io/badge/WordPress-0A1424?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress">
 <img src="https://img.shields.io/badge/Shopify-0A1424?style=flat-square&logo=shopify&logoColor=white" alt="Shopify">
@@ -31,20 +17,20 @@ location: İzmir, Türkiye
 <img src="https://img.shields.io/badge/Cloudflare-0A1424?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare">
 </p>
 
-> **Building, deploying, securing and optimizing web systems.**
+<p align="center"><code>&gt; building, deploying, securing and optimizing web systems</code></p>
 
----
+<p><img src="./assets/divider.svg" width="100%" alt=""></p>
 
 ## About me
 `$ cat ~/about.md`
 
-I'm a web developer and web infrastructure engineer with **5+ years** of professional experience. I'm currently at **Crabs Media**, and alongside that role I take on **freelance web development and technical consulting** projects.
+I work in **full-stack development and systems administration**, with **5+ years** of professional experience. I'm currently at **Crabs Media**, and alongside that role I take on **freelance web development and technical consulting** projects.
 
 My work spans the full life of a website: planning, development, integration, deployment, maintenance, security and optimization. That means PHP development, front-end engineering, CMS architecture, e-commerce, cloud infrastructure, Linux hosting, security, technical SEO and performance.
 
 I don't stop at building the site. I deploy it, keep it running, troubleshoot it when something breaks, secure it and keep improving it in production.
 
----
+<p><img src="./assets/divider.svg" width="100%" alt=""></p>
 
 ## What I work with
 `$ ls ~/stack`
@@ -61,7 +47,7 @@ I don't stop at building the site. I deploy it, keep it running, troubleshoot it
 | **Performance** | <kbd>Lighthouse</kbd> <kbd>PageSpeed Insights</kbd> <kbd>Core Web Vitals</kbd>  |
 | **Workflow** | <kbd>Git</kbd> <kbd>REST APIs</kbd> <kbd>AI-assisted development</kbd>  |
 
----
+<p><img src="./assets/divider.svg" width="100%" alt=""></p>
 
 ## Engineering capabilities
 `$ man capabilities`
@@ -104,25 +90,17 @@ Sites that editors and store owners can run without a developer for routine chan
 
 </details>
 
----
+<p><img src="./assets/divider.svg" width="100%" alt=""></p>
 
 ## Infrastructure & security
 `$ systemctl status web-stack`
 
 I look after the layers underneath the site, not only the code.
 
-```text
-request
-  │
-  ├─ edge    Cloudflare · DNS · SSL/TLS
-  ├─ server  Apache · LiteSpeed
-  │          Linux · WHM/cPanel · Plesk
-  ├─ cloud   AWS hosting
-  ├─ app     PHP · WordPress · Shopify
-  ├─ data    MySQL
-  └─ mail    Amazon SES
-             SPF · DKIM · DMARC
-```
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/infra-mobile.svg">
+  <img src="./assets/infra.svg" width="100%" alt="Web stack I operate, from the request inward. edge: Cloudflare, DNS, SSL/TLS. server: Apache, LiteSpeed, Linux, WHM/cPanel, Plesk. cloud: AWS hosting. app: PHP, WordPress, WooCommerce, Shopify. data: MySQL. mail: Amazon SES, SPF, DKIM, DMARC.">
+</picture>
 
 | Area | What I do |
 |:--|:--|
@@ -133,7 +111,7 @@ request
 | **Incidents** | Investigate suspicious traffic, remediate compromised websites, troubleshoot production issues |
 | **Continuity** | Maintain backups and routine production maintenance |
 
----
+<p><img src="./assets/divider.svg" width="100%" alt=""></p>
 
 ## Performance & technical SEO
 `$ lighthouse --audit`
@@ -147,16 +125,15 @@ Speed and search visibility are part of the build, not a later clean-up.
 | **Crawlability** | Site structure, indexability, metadata |
 | **Structured data** | Schema markup that matches the page content |
 
----
+<p><img src="./assets/divider.svg" width="100%" alt=""></p>
 
 ## Development workflow
 `$ git log --graph`
 
-```text
-plan → develop → integrate
-  → deploy → maintain
-  → secure → optimize
-```
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/workflow-mobile.svg">
+  <img src="./assets/workflow.svg" width="100%" alt="Workflow: plan, develop, integrate, deploy, maintain, secure, optimize.">
+</picture>
 
 - **Git** for every project, with readable history
 - **Documentation and development standards** so the next change is predictable
@@ -164,7 +141,7 @@ plan → develop → integrate
 - **Automation** for repetitive operational tasks
 - **AI-assisted development**, with every change reviewed before it ships
 
----
+<p><img src="./assets/divider.svg" width="100%" alt=""></p>
 
 ## Professional background
 `$ cat ~/background`
@@ -184,7 +161,7 @@ plan → develop → integrate
 **Education** · Akdeniz University, B.Sc. Computer Science & Engineering<br>
 **Certification** · IBM SkillsBuild + Kodluyoruz, CyberStart Completion Certificate (2024)
 
----
+<p><img src="./assets/divider.svg" width="100%" alt=""></p>
 
 ## Currently exploring
 `$ cat ~/exploring.txt`
@@ -194,7 +171,7 @@ plan → develop → integrate
 - AI-assisted development workflows
 - Software tooling and technical experiments
 
----
+<p><img src="./assets/divider.svg" width="100%" alt=""></p>
 
 ## Connect
 `$ open github.com/dkansener`
